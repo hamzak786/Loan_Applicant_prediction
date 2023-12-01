@@ -29,14 +29,3 @@ That's great! Developing a Loan Eligibility Prediction project is a valuable and
 8. **Model Evaluation:**
    - Evaluate the model's performance using metrics like accuracy, precision, recall, F1-score, and ROC-AUC.
 
-9. **Hyperparameter Tuning:**
-   - Optimize your model by tuning hyperparameters to achieve better performance.
-
-10. **Deployment (Optional):**
-    - If you plan to deploy your model, consider using frameworks like Flask or FastAPI for creating APIs.
-
-11. **Documentation:**
-    - Document your code and provide clear explanations of your approach.
-
-12. **Communication:**
-    - If your project is part of a portfolio or you plan to share your findings, consider creating a presentation or report summarizing your work.
